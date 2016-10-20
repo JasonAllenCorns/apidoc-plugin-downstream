@@ -1,6 +1,6 @@
 {
   "name": "apidoc-plugin-downstream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generates an apidoc plugin for listing downstream dependency/ies.",
   "main": "./lib/index.js",
   "scripts": {
