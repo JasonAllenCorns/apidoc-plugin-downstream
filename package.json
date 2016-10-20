@@ -1,0 +1,30 @@
+{
+  "name": "apidoc-plugin-downstream",
+  "version": "0.0.0",
+  "description": "Generates an apidoc plugin for listing downstream dependency/ies.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonAllenCorns/apidoc-plugin-downstream.git"
+  },
+  "keywords": [
+    "apidoc",
+    "plugin",
+    "documentation",
+    "downstream"
+  ],
+  "author": "Jason Corns <apidoc.plugin.downstream@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasonAllenCorns/apidoc-plugin-downstream/issues"
+  },
+  "homepage": "https://github.com/JasonAllenCorns/apidoc-plugin-downstream#readme",
+  "devDependencies": {
+    "apidoc-example": "^0.1.7",
+    "jshint": "^2.9.4",
+    "mocha": "^3.1.2"
+  }
+}
